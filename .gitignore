@@ -1,0 +1,13 @@
+# Segreti
+.env
+.env.*
+!.env.example
+
+# Python / Django
+.venv/
+__pycache__/
+*.pyc
+db.sqlite3
+
+# macOS
+.DS_Store
